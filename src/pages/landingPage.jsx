@@ -7,9 +7,10 @@ import Mydetails from "../component/mydetailContainer";
 const LandingPage =()=>{
     return(
         <section>
-            <HeaderNav/>
+            <h1>Landing pages</h1>
+            {/* <HeaderNav/>
             <Mydetails/>
-            <FooterNav/>
+            <FooterNav/> */}
         </section>
     )
 }
